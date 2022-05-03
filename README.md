@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andynguyenh&label=Profile%20views&color=0e75b6&style=flat" alt="andynguyenh" /> </p>
 
-- 🔭 I’m currently working on [League of Legends Profile Tracker](https://github.com/andynguyenh/hr-bge1-mvp)
+- 🔭 I’m currently working on [League of Legends Profile Tracker](https://github.com/andynguyenh/hr-bge1-mvp/tree/master/leagueApp)
 
 - 🌱 I’m currently learning **React Native, Firebase**
 
